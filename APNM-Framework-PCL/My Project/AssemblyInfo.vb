@@ -8,11 +8,11 @@ Imports System.Reflection
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("APNM-Framework-PCL")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("APNM-Framework-PCL")> 
-<Assembly: AssemblyCopyright("Copyright ©  2016")> 
+<Assembly: AssemblyTitle("APNM-Framework-PCL")>
+<Assembly: AssemblyDescription("The APNM Plugin Framework Portable-Class-Library for use in Windows Universal, Windows Phone 8.1, Xamarin.Android and Xamarin.iOS applications")>
+<Assembly: AssemblyCompany("JTechMe")>
+<Assembly: AssemblyProduct("APNM-Framework-PCL")>
+<Assembly: AssemblyCopyright("Copyright © JTechMe 2016")>
 <Assembly: AssemblyTrademark("")> 
 <Assembly: NeutralResourcesLanguage("en")>
 
@@ -27,5 +27,5 @@ Imports System.Reflection
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("0.0.1.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")> 
